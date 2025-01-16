@@ -19,14 +19,6 @@ Clona el repositorio en tu máquina local:
 git clone https://github.com/tu-usuario/scraper-prueba.git
 cd scraper-prueba
 ```
-### Paso 2: Crear y activar un entorno virtual
-
-Clona el repositorio en tu máquina local:
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 
 ### Paso 2: Instalar las dependencias
 
