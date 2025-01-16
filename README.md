@@ -4,7 +4,7 @@ Este proyecto es un scraper utilizando Scrapy para extraer datos de diferentes s
 
 ## Requisitos
 
-Para ejecutar este proyecto, necesitas tener Python 3.12 o superior y las siguientes bibliotecas:
+Para ejecutar este proyecto, necesitas tener las siguientes bibliotecas:
 
 - **Scrapy**: Framework utilizado para la creación de spiders.
 - **Tkinter**: Interfaz gráfica para ejecutar los scrapers desde una ventana.
