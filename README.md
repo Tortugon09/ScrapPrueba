@@ -1,6 +1,6 @@
 # Scraper Prueba
 
-Este proyecto es un scraper utilizando Scrapy para extraer datos de diferentes sitios web. Proporciona una interfaz que permite ejecutar scrapers específicos para obtener datos en formato JSON o CSV y guardarlos en la carpeta de salida.
+Este proyecto es un scraper utilizando Scrapy para extraer datos de diferentes sitios web. Proporciona una interfaz que permite ejecutar scrapers específicos para obtener datos en formato CSV y guardarlos en la carpeta de salida.
 
 ## Requisitos
 
